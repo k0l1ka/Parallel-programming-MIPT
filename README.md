@@ -1,1 +1,1 @@
-My homeworks at parallel programming course at MIPT.
+My homeworks for parallel programming course at MIPT.
